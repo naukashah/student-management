@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_update">UpdateActivity</string>
+    <string name="enter_student_id">enter_student_id</string>
+    <string name="enter_student_name">enter_student_name</string>
+    <string name="enter_term">enter_term</string>
+    <string name="enter_university_name">enter_university_name</string>
+    <string name="extended_fab_label">Update</string>
+    <string name="submit">Update</string>
+    <string name="Remove">Remove</string>
+    <string name="get_started">Get Started</string>
+    <string name="nauka_shah">Nauka Shah</string>
+    <string name="android_project">Android Project</string>
+    <string name="todo">TODO</string>
+    <string name="delete">Delete</string>
+</resources>
